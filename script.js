@@ -96,7 +96,7 @@ document.querySelectorAll(".btn-primary, .btn-outline").forEach((b) => {
 // ===== Booking modal =====
 // URL твоего Google Apps Script (веб-приложение) — вставь сюда после создания
 const BOOKING_ENDPOINT =
-  "https://script.google.com/macros/s/AKfycbyiYdBZr9lz2-9IYuseah6UJDZjOWQDDaNTqzdbs8M6UkVeHqD0kB4v8s7fAOTrNCZc4w/exec";
+  "https://script.google.com/macros/s/AKfycbztZU4DDUBOE42D1jYHIW0gdCCL1Vu0aFSGlbD4wgbcLyceUJHJKh-pXt8OoZt7SkRD/exec";
 
 const bookModal = document.getElementById("bookModal");
 const modalClose = document.getElementById("modalClose");
